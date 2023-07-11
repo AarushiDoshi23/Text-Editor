@@ -22,9 +22,7 @@ Text-Editor is a simple text editor program built using Python and tkinter. It p
 ![Step 1](images/step1.png)
 2. Open an existing text file or create a new one using the file operations.
 ![Step 2](images/step2.png)
-3. 
-
-4. Customize the font family, font size, and theme as desired.
+3. Customize the font family, font size, and theme as desired.
 
 5. Use the text formatting options to apply bold, italic, or alignment to the text.
 
