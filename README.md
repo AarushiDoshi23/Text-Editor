@@ -19,20 +19,24 @@ Text-Editor is a simple text editor program built using Python and tkinter. It p
 ## Usage
 
 1. Launch the text editor program.
-![Step 1](images/step1.png)
+   ![Step 1](images/step1.png)
+
 2. Open an existing text file or create a new one using the file operations.
-![Step 2](images/step2.png)
+   ![Step 2](images/step2.png)
+
 3. Customize the font family and font size. Use the text formatting options to apply bold, italic, or alignment to the text.
-![Step 3](images/step3.png)
-4. Choose desired text-editor theme
-![Step 4](images/step4png)
+   ![Step 3](images/step3.png)
+
+4. Choose the desired text-editor theme.
+   ![Step 4](images/step4.png)
+
 5. Use the find and replace functionality to search for and replace specific words or phrases.
-![Step 6](images/step5.png)
+   ![Step 5](images/step5.png)
+
 6. Utilize the text-to-speech feature to listen to the text content.
 
 7. Save your changes or create a new file as needed.
-![Step 7](images/step7.png)
-
+   ![Step 7](images/step7.png)
 
 ## Supported File Types
 
