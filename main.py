@@ -382,7 +382,7 @@ edit_m.add_command(label="Paste", accelerator="Ctrl+V", image=img_paste, compoun
 edit_m.add_command(label="Cut", accelerator="Ctrl+X", image=img_cut, compound=LEFT, command=lambda: cut_text(False))
 edit_m.add_command(label="Undo", accelerator="Ctrl+Z", image=img_undo, compound=LEFT, command=text_area.edit_undo)
 edit_m.add_command(label="Redo", accelerator="Ctrl+Y", image=img_redo, compound=LEFT, command=text_area.edit_redo)
-edit_m.add_command(label="Find", accelerator="Ctrl+F", image=img_find, compound=LEFT, command=find_text)
+edit_m.add_command(label="Find", accelerator="Ctrl+F", image=img_find, compound=LEFT, command=lambda: find_text(True))
 
 # Bind shortcut keys to functions
 root.bind('<Control-x>', cut_text)
